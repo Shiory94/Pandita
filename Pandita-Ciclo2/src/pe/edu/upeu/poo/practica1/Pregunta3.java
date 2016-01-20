@@ -8,12 +8,13 @@ public class Pregunta3 {
 		Scanner numero = new Scanner(System.in);
 		System.out.println("Ingrese un número entero");
 		int n = numero.nextInt();
-		if(n==1){
-			for (int i = 0; < i=1+2) {
+		
+			for (int i = 1; n <= i ; i++) {
+				
+				System.out.println(i*2);
 				
 				
 			}
-		}
 		
 	}
 
